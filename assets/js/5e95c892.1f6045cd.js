@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksubnautica_speedrun_docs=self.webpackChunksubnautica_speedrun_docs||[]).push([[661],{1892:(e,s,u)=>{u.r(s),u.d(s,{default:()=>p});u(7294);var r=u(512),a=u(1944),c=u(5281),n=u(8790),d=u(8862),t=u(5893);function p(e){return(0,t.jsx)(a.FG,{className:(0,r.Z)(c.k.wrapper.docsPages),children:(0,t.jsx)(d.Z,{children:(0,n.H)(e.route.routes)})})}}}]);
